@@ -1,0 +1,6 @@
+hi guys dis is kiran kumar meegada
+this program is for image denoising using shrink approach there are many other
+types which iam going to enclose in my next submission
+this one is designed using both hard threshold and soft threshold
+this is not for commercial
+if queries mail me to matlabkirankumar@gmail.com or kirankumarmeegada@gmail.com

@@ -1,0 +1,46 @@
+*************Parameter Info********
+    IMG_S = {'pics/Lena'};
+    FILTERTYPE_S = {'db1','db2','tf1','tf2'};
+    MASK_PREFIX = 'pics/masks/';
+    MASK_S = { 'm_combine', 'm_l_lr', 'm_l_v',  'm_ring', 'm_line', 'm_text', };
+    LEVELS_S = [5];
+    TV_S = [100]; %Threshold values set
+    SCHEME_S = [1]; %Scheme for decreasing TV
+    RT_S = [5]; %Total Recursion Time set
+*************Parameter Info End********
+
+Started @ 20-Mar-2014 14:50:17 
+-----Picture: pics/Lena Infomation-----
+Hard Table for Picture: pics/Lena 
+20.02 14.20 22.69 20.98 
+25.96 27.38 30.96 27.21 
+26.91 1.07 27.38 27.26 
+22.19 18.63 24.83 23.09 
+27.51 0.98 28.97 28.73 
+18.36 18.27 33.75 29.54 
+Hard Index Table for Picture: pics/Lena 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+Soft Table for Picture: pics/Lena 
+20.02 14.20 22.69 20.98 
+25.96 27.38 30.96 27.21 
+26.91 1.07 27.38 27.26 
+22.19 18.63 24.83 23.09 
+27.51 0.98 28.97 28.73 
+18.36 18.27 33.75 29.54 
+Soft Index Table for Picture: pics/Lena 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+------------------------
+ Ended @ 20-Mar-2014 15:26:44
+
+
+
