@@ -1,0 +1,30 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hawthorn et~al.(2001{\natexlab{a}})Hawthorn, Weber, and
+  Scholten]{Reference3}
+C.~J. Hawthorn, K.~P. Weber, and R.~E. Scholten.
+\newblock Littrow configuration tunable external cavity diode laser with fixed
+  direction output beam.
+\newblock \emph{Review of Scientific Instruments}, 72\penalty0 (12):\penalty0
+  4477--4479, December 2001{\natexlab{a}}.
+
+\bibitem[Hawthorn et~al.(2001{\natexlab{b}})Hawthorn, Weber, and
+  Scholten]{Reference2}
+C.~J. Hawthorn, K.~P. Weber, and R.~E. Scholten.
+\newblock Littrow configuration tunable external cavity diode laser with fixed
+  direction output beam.
+\newblock \emph{Review of Scientific Instruments}, 72\penalty0 (12):\penalty0
+  4477--4479, December 2001{\natexlab{b}}.
+
+\bibitem[Daubechies(1992)]{Reference1}
+I.~Daubechies.
+\newblock Ten lectures on wavelets.
+\newblock \emph{CBMS-NSF Regional Conference Series in Applied Mathematics},
+  61, 1992.
+
+\end{thebibliography}

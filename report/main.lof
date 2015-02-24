@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A Sine Wave\relax }}{1}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Daubechies' Wavelet $\psi _{D20}$\relax }}{1}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces One Level Analysis Bank\relax }}{7}{figure.caption.28}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces One Level Synthesis Bank\relax }}{7}{figure.caption.28}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Implementation of one-level discrete wavelet transform\relax }}{8}{figure.caption.29}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Two-level Analysis Tree\relax }}{8}{figure.caption.31}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Two-level Discrete Framelet Transform\relax }}{9}{figure.caption.32}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Sub-bands of the 2D orthogonal wavelet transform\relax }}{10}{figure.caption.52}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Image Denoising using hard and soft thresholding with $\sigma = 50$\relax }}{14}{figure.caption.81}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Image Inpainting using hard and soft thresholding \relax }}{15}{figure.caption.110}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Denoising Result with $\sigma = 30$ for Barbara. Top: Original images and Zoom. Middle: `db2' Denoising. Bottom: `tf2' denoising.\relax }}{21}{figure.caption.131}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Mask Figures\relax }}{22}{figure.caption.134}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Inpainting Result with `text' mask for Boat. Top: Original images and Zoom. Middle: `db1' Inpainting. Bottom: `tf1' inpainting.\relax }}{25}{figure.caption.155}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
